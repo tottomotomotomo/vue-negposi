@@ -1,4 +1,4 @@
-# note-summarize
+# vue-negaposi
 
 ## Project setup
 ```
@@ -23,4 +23,5 @@ npm run test:unit
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-using API →　https://metadata.co.jp/apis/negaposi-analyzer/detail.html
+###using API
+https://metadata.co.jp/apis/negaposi-analyzer/detail.html
