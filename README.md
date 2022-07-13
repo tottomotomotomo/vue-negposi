@@ -23,5 +23,5 @@ npm run test:unit
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-###using API
+### using API
 https://metadata.co.jp/apis/negaposi-analyzer/detail.html
